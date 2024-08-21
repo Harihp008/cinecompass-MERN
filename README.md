@@ -1,3 +1,7 @@
+## To view project visit 
+https://cinecompass.onrender.com/
+
+
 <h1 align="center">Cine Compass MERN stack 🎬</h1>
 
 ![Demo App](/frontend/public/SS_for_readme.png)
